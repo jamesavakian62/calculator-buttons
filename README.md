@@ -1,2 +1,2 @@
-(preview.png)
+(./design/preview.png)
 
